@@ -1,7 +1,18 @@
 <div align="center">
+   <a href="#-tecnologias-utilizadas">
+      <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
+   </a>
+</div>
+                                                                     
+
+
+
+
+<div align="center">  
   <h1>🎮 Login social com a Twitch</h1>
 
-  
   ![image](https://user-images.githubusercontent.com/71537090/180063261-1eeb09cd-c744-4396-be14-f0f83a71db6d.png)
 
 </div>
